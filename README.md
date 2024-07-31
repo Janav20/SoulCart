@@ -23,15 +23,9 @@ git clone https://github.com/your-username/soulcart.git
 2. Open the project in VS Code or any code editor of your choice.
 3. Open index.html in your browser or through a live server extension in your editor.
 
-##Usage
+## Usage
 Navigate through different categories using the sidebar. Click on individual products to view their details.
 
-##Contributions
-Feel free to fork this project, submit issues and pull requests. Contributions are welcome!
 
-##License
-This project is licensed under the MIT License.
-
-##Contact
-
+## Contact
 If you have any questions or suggestions, please feel free to contact me at [shettyjanav@example.com](shettyjanav@example.com).
