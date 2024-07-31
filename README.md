@@ -28,4 +28,4 @@ Navigate through different categories using the sidebar. Click on individual pro
 
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact me at [shettyjanav@example.com](shettyjanav@example.com).
+If you have any questions or suggestions, please feel free to contact me at [shettyjanav@gmail.com](shettyjanav@gmail.com).
