@@ -1,4 +1,4 @@
- SoulCart - Ecommerce Website
+# SoulCart - E-commerce Website
 
 SoulCart is an ecommerce website built using HTML, CSS, and JavaScript. It features various categories such as clothing, mobiles, and appliances.
 
